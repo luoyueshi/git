@@ -11,4 +11,4 @@ C:\Documents and Settings\Administrator\ 目录下有一个  .gitconfig 的文件，里面会
 
 4 http://f.dataguru.cn/thread-526681-1-1.html hive  大数据
 
-5 save username password git config --global credential.helper store
+5 git保存用户名密码 git config --global credential.helper store
