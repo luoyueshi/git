@@ -9,4 +9,4 @@ C:\Documents and Settings\Administrator\ 目录下有一个  .gitconfig 的文件，里面会
 3 remote: Invalid username or password. fatal: Authentication failed for 错误
 去Github上配置好了你的Token之后，将token（40个字符的长度）拷贝下来，用这个token来代替你登录github的密码，切记不要再用你的github账号的密码，否则会出现前面的授权错误。 
 
-4 
+4 http://f.dataguru.cn/thread-526681-1-1.html hive  大数据
